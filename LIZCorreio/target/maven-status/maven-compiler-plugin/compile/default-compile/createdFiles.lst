@@ -1,0 +1,15 @@
+br\com\henriplugins\commands\CorreioCommand.class
+br\com\henriplugins\listeners\ChatListener.class
+br\com\henriplugins\menus\CorreioMenu$1.class
+br\com\henriplugins\manager\CorreioManager.class
+br\com\henriplugins\menus\CorreioEnviarMenu.class
+br\com\henriplugins\items\CorreioItem.class
+br\com\henriplugins\manager\RecipeManager.class
+br\com\henriplugins\menus\CorreioMenu.class
+br\com\henriplugins\LIZCorreio.class
+br\com\henriplugins\listeners\CorreioBlockListener.class
+br\com\henriplugins\database\CorreioDatabase$CorreioRow.class
+br\com\henriplugins\database\CorreioDatabase.class
+br\com\henriplugins\listeners\CorreioCraftListener.class
+br\com\henriplugins\menus\CorreioRecolherMenu.class
+br\com\henriplugins\manager\ConfigManager.class

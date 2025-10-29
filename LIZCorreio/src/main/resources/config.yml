@@ -1,0 +1,19 @@
+correio:
+  material: "dacbbca567372a9b2b36c8f68154851bda5ee1d53e2bc208a1152d9a18d2cb" # Use namespace:id to ItemsAdder, base64 to custom head or material vanilla
+  name: "&f&lCorreio"
+  lore:
+    - ""
+    - "&7Receba itens de outros jogadores"
+    - "&7e envie também."
+    - ""
+    - "&f&lITEM COMUM"
+  recipe: # Restart server to apply.
+    enabled: true
+    shape:
+      - "III"
+      - "ICI"
+      - "SSS"
+    ingredients:
+      I: IRON_INGOT
+      C: CHEST
+      S: STICK

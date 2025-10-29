@@ -1,0 +1,22 @@
+name: LIZCorreio
+version: '1.0'
+main: br.com.henriplugins.LIZCorreio
+api-version: '1.19'
+softdepend: [ItemsAdder]
+commands:
+  correio:
+    description: Comando principal do Correio
+    usage: /<comando> <give|reload>
+    aliases: [mail]
+    permission: lizcorreio.use
+    permission-message: "§cVocê não tem permissão para usar este comando."
+permissions:
+  lizcorreio.use:
+    description: Permissão para usar o comando /correio
+    default: true
+  lizcorreio.give:
+    description: Permissão para dar o item Correio a outro jogador
+    default: op
+  lizcorreio.reload:
+    description: Permissão para recarregar a config do Correio
+    default: op
