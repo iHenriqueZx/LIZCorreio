@@ -1,5 +1,5 @@
 name: LIZCorreio
-version: '1.0'
+version: '1.1'
 main: br.com.henriplugins.LIZCorreio
 api-version: '1.19'
 softdepend: [ItemsAdder]

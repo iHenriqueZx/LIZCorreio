@@ -8,7 +8,7 @@ correio:
     - ""
     - "&f&lITEM COMUM"
   recipe: # Restart server to apply.
-    enabled: true
+    enabled: false
     shape:
       - "III"
       - "ICI"
